@@ -8,6 +8,6 @@ To see the detailed documentation of what was done, please [click here](./Docume
 
 ## Developers
 
-Emanuel Silva Gestosa - up202005485 
-José Albano Gaspar - up202008561
-Maria Sofia Gonçalves - up202006927
+- Emanuel Silva Gestosa - up202005485 
+- José Albano Gaspar - up202008561
+- Maria Sofia Gonçalves - up202006927
